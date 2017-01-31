@@ -1,0 +1,25 @@
+{
+  "name": "ng2-web-cryptography",
+  "version": "0.0.1",
+  "description": "angular2 module implementing web cryptograpy API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shershen08/ng2-web-cryptography.git"
+  },
+  "keywords": [
+    "angular2",
+    "webcryptograpy",
+    "crypto",
+    "encryption"
+  ],
+  "author": "Mikhail Kuznetcov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shershen08/ng2-web-cryptography/issues"
+  },
+  "homepage": "https://github.com/shershen08/ng2-web-cryptography#readme"
+}
