@@ -11,10 +11,9 @@ import { Utils } from './utils'
     providers: [CryptRSAOAEP, CryptAESCBC],
 })
 
-
 const typesSupported = ['AES-CBC', 'RSA-OAEP'];
 
-export class Ng2WebCryptoModule {
+export class Ng2WebCrypto {
   type: string;
   keyUsagesEncryptDecrypt: string[] = ["encrypt", "decrypt"];
   keyUsagesWrapUnwrap: string[] = ["wrapKey", "unwrapKey"];

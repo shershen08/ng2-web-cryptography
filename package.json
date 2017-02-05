@@ -1,6 +1,6 @@
 {
   "name": "ng2-web-cryptography",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "angular2 module implementing web cryptograpy API",
   "main": "index.js",
   "scripts": {
